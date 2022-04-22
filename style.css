@@ -1,0 +1,35 @@
+.box{
+    width: 500px;
+    margin-left: 500px;
+    padding:10px;
+    margin-top: -10px;
+}
+.body{
+    background-image: url('https://images.unsplash.com/photo-1593693397690-362cb9666fc2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8a2VyYWxhfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    background-size: cover;
+}
+.pic{
+    background-image: url('https://www.oyorooms.com/blog/wp-content/uploads/2018/04/fe-38.jpg');
+    background-size: cover;
+    padding: 10px;
+}
+.center
+{
+    font-style: inherit;
+    width: 50rem;
+    margin-left: 20rem;
+    text-shadow: 0.5px 0.5px #000000;   
+}
+.center1
+{
+    font-style: inherit;
+    width: 50rem;
+    margin-left: 40rem;
+    text-shadow: 0.5px 0.5px #000000;   
+}
+.al
+{
+    background-image: url('https://www.keralatourism.org/images/destination/mobile/alappuzha20160801052013_60_2.jpg');
+    background-size: cover;
+    padding: 10px;  
+}

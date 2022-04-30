@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1> Welcome To my page</h1>  
+  <b>This website provides you information about latest trending technologies</b>
+  <p id="demo"></p>
+  <h2 onclick="changeText(this)">Click on this text</h2>
+  <script>
+      document.getElementById("demo").innerHTML="Welcome technology enthusiastic !!!"
+      function changeText(id){
+        id.innerHTML='Oooops!';
+      }
+  </script>
+  <p id="dem">
+      Latest technologies include AI,ML,VR,AR etc.
+  </p>
+  <script>
+      document.getElementById("dem").style.color = "red";
+  </script>
+</body
+</html>
